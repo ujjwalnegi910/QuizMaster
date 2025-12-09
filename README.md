@@ -23,4 +23,4 @@ QuizMaster is a Java-based quiz application that allows users to register, log i
    java Main
 
 ## Author
-Your Name – VIT Bhopal
+Ujjwal – VIT Bhopal
